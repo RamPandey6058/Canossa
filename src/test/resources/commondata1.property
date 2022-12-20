@@ -1,0 +1,5 @@
+url=http://rmgtestingserver/domain/Hospital_Management_System
+browser1=chrome
+username=test@gmail.com
+password=Test@123
+timeout=10
